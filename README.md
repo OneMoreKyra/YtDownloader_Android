@@ -14,7 +14,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Descargar%20-%20%20Latest%20-%20green?style=flat&logo=Github&link=https%3A%2F%2Fgithub.com%2FOneMoreKyra%2FYtDownloader%2Freleases%2Flatest">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Me%20apoyas%3F%20-%20%20Comprame%20un%20cafe%20-%20brown?style=flat&label=%E2%98%95&link=https%3A%2F%2Fbuymeacoffee.com%2Fonemorekyra">
+<img alt="Static Badge" src="https://img.shields.io/badge/%E2%80%86-Patreonciname-black?style=flat&logo=Patreon&logoColor=red&labelColor=grey&link=https%3A%2F%2Fwww.patreon.com%2Fc%2FOneMoreKyra">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%AA%9F%20Tambien%20disponible%20en-windows-blue?style=flat&link=https%3A%2F%2Fgithub.com%2FOneMoreKyra%2FYtDownloader">
 
